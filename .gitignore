@@ -1,6 +1,5 @@
 node_modules
 .DS_Store
-dist
 dist-ssr
 *.local
 .idea
@@ -8,8 +7,6 @@ dist-ssr
 /data
 !/data/.gitkeep
 .vscode
-
-/private
 /out
 /tmp
 .env
